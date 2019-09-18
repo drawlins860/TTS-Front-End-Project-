@@ -1,0 +1,44 @@
+#div1{
+    background-color: blue;
+  
+}
+
+#div2 {
+    background-color: black;
+    height: 1200px;
+    width: 1000px;
+
+}
+
+#div3 {
+    background-color: white;
+    height: 300px;
+    width: 1000px;
+
+}
+
+#div4 {
+    background-color: bisque;
+    height: 300px;
+    width: 1000px;
+
+}
+
+#div5 {
+    background-color: blue;
+    height: 300px;
+    width: 1000px;
+
+}
+
+#div6 {
+    background-color: black;
+    height: 200px;
+    width: 1000px;
+
+}
+
+.card {
+    align-content: flex-start;
+}
+
